@@ -17,4 +17,4 @@ This is a repository used as a reference for projects developed by the scientifi
 
 ### Tasks
 
-- [08-04-2020](https://github.com/victorfernandesraton/thingYota-resources/tasks/08-04-2020.md)
+- [08-04-2020](https://github.com/victorfernandesraton/thingYota-resources/blob/master/tasks/08-04-2020.md)

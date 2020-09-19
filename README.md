@@ -32,3 +32,5 @@ This is a repository used as a reference for projects developed by the scientifi
 - [An Initial Mapping Study on MDE4IoT](./articles/4_2018_WS_An_Initial_Mapping_Study_on_MDE4IoT.pdf)
 - [Model-driven development of user interfaces for IoT systems via domain-specific components and patterns](./articles/5_Model_Driven_Development_of_User_Interfaces_for_IoT_Systems_s13174-017-0064-1.pdf)
 - [Model-driven development of user interfaces for IoT systems via domain-specific components and patterns (Copy)](./articles/5_Model_Driven_Development_of_User_Interfaces_for_IoT_Systems_s13174-017-0064-1_copy.pdf)
+
+- [Model-Based Software Engineering to Tame the IoT Jungle](https://ieeexplore.ieee.org/document/7819419)
